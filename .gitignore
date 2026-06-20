@@ -1,0 +1,13 @@
+# Base SQLite (générée localement via tools/)
+data/PokemonSDK.db
+
+# Assets bruts sources (avant traitement)
+tools/sources/
+tools/tmp/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Les sprites PNG/GIF/OGG sont committés volontairement
+# Ne pas ignorer sprites/ audio/
